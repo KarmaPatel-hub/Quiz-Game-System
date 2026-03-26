@@ -67,6 +67,7 @@ Enter your answer: B
 Correct!
 
 Final Score = 5/5
+![Program Output](output.png)
 
 ## 🚀 Future Improvements
 
@@ -78,3 +79,4 @@ Final Score = 5/5
 ## ✅ Conclusion
 
 This project is useful for beginners to understand how basic OOP concepts are applied in a real C++ program.
+
