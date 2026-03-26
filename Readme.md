@@ -26,17 +26,6 @@ It is designed to demonstrate basic C++ programming concepts such as:
 * Score calculation
 * Final result display
 
-## 🛠️ Technologies Used
-
-* C++
-* Console Application
-* Visual Studio Code
-
-## 📂 Project Structure
-
-Quiz-Game-System/
-│── main.cpp
-│── README.md
 
 ## ▶️ How to Run
 
@@ -67,12 +56,6 @@ Correct!
 
 Final Score = 5/5
 
-## 🚀 Future Improvements
-
-* Add more questions
-* Add difficulty levels
-* Add timer
-* Store high scores
 
 ## ✅ Conclusion
 
