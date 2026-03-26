@@ -67,7 +67,6 @@ Enter your answer: B
 Correct!
 
 Final Score = 5/5
-![Program Output](output.png)
 
 ## 🚀 Future Improvements
 
