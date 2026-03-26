@@ -1,6 +1,5 @@
 # Quiz Game System 🎮
 
-A simple console-based quiz game developed in C++ using Object-Oriented Programming concepts.
 
 ## 📌 Project Overview
 
